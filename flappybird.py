@@ -128,8 +128,6 @@ if __name__ == '__main__':
     Chick = Chick()
     score = 0
     i = 1
-    idsfsd = 0
-    # ，s
     #无限循环，直到游戏结束
     while True:
         clock.tick(60)
